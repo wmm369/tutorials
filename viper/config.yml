@@ -1,0 +1,7 @@
+Version: "3.0"
+Debug: false
+MongoDB:
+  IP: 127.0.0.1
+  Port: 27017
+  DbName: "db_name"
+
